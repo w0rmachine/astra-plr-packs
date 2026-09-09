@@ -1,0 +1,52 @@
+[
+  {
+    "id": "astronomy_10facts-01",
+    "code": "sunmass",
+    "fact": "The Sun contains 99.86% of the mass in our solar system."
+  },
+  {
+    "id": "astronomy_10facts-02",
+    "code": "lightyear",
+    "fact": "A light-year is about 9.46 trillion kilometers (5.88 trillion miles)."
+  },
+  {
+    "id": "astronomy_10facts-03",
+    "code": "saturn",
+    "fact": "Saturn's rings are made of billions of ice and rock particles."
+  },
+  {
+    "id": "astronomy_10facts-04",
+    "code": "stars",
+    "fact": "There are more stars in the universe than grains of sand on all Earth's beaches."
+  },
+  {
+    "id": "astronomy_10facts-05",
+    "code": "andromeda",
+    "fact": "The Andromeda Galaxy is on a collision course with the Milky Way."
+  },
+  {
+    "id": "astronomy_10facts-06",
+    "code": "neutron",
+    "fact": "A neutron star can spin up to 600 times per second."
+  },
+  {
+    "id": "astronomy_10facts-07",
+    "code": "venus",
+    "fact": "Venus is the hottest planet despite not being closest to the Sun."
+  },
+  {
+    "id": "astronomy_10facts-08",
+    "code": "diameter",
+    "fact": "The observable universe is about 93 billion light-years in diameter."
+  },
+  {
+    "id": "astronomy_10facts-09",
+    "code": "blackhole",
+    "fact": "Black holes have gravitational pulls so strong that not even light escapes."
+  },
+  {
+    "id": "astronomy_10facts-10",
+    "code": "pluto",
+    "fact": "Pluto was reclassified as a dwarf planet in 2006."
+  }
+]

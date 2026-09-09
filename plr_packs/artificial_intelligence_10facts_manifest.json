@@ -1,0 +1,52 @@
+[
+  {
+    "id": "artificial_intelligence_10facts-01",
+    "code": "dartmouth",
+    "fact": "The term 'artificial intelligence' was coined in 1956 at Dartmouth."
+  },
+  {
+    "id": "artificial_intelligence_10facts-02",
+    "code": "ml",
+    "fact": "Machine learning trains algorithms on data rather than explicit rules."
+  },
+  {
+    "id": "artificial_intelligence_10facts-03",
+    "code": "neuralnet",
+    "fact": "Neural networks are inspired by the structure of the human brain."
+  },
+  {
+    "id": "artificial_intelligence_10facts-04",
+    "code": "medical",
+    "fact": "AI can diagnose certain diseases with accuracy matching expert radiologists."
+  },
+  {
+    "id": "artificial_intelligence_10facts-05",
+    "code": "nlp",
+    "fact": "Natural language processing powers chatbots and virtual assistants."
+  },
+  {
+    "id": "artificial_intelligence_10facts-06",
+    "code": "vision",
+    "fact": "Computer vision enables self-driving cars to detect pedestrians."
+  },
+  {
+    "id": "artificial_intelligence_10facts-07",
+    "code": "generative",
+    "fact": "Generative AI can create text, images, music, and video from prompts."
+  },
+  {
+    "id": "artificial_intelligence_10facts-08",
+    "code": "rl",
+    "fact": "Reinforcement learning agents master games by trial and error."
+  },
+  {
+    "id": "artificial_intelligence_10facts-09",
+    "code": "fraud",
+    "fact": "AI systems are used to detect fraud in real-time financial transactions."
+  },
+  {
+    "id": "artificial_intelligence_10facts-10",
+    "code": "llm",
+    "fact": "Large language models contain billions of trainable parameters."
+  }
+]
