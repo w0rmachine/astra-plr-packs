@@ -1,0 +1,52 @@
+[
+  {
+    "id": "space_exploration_10facts-01",
+    "code": "gagarin",
+    "fact": "The first human in space was Yuri Gagarin in 1961."
+  },
+  {
+    "id": "space_exploration_10facts-02",
+    "code": "apollo11",
+    "fact": "Apollo 11 landed humans on the Moon in 1969."
+  },
+  {
+    "id": "space_exploration_10facts-03",
+    "code": "voyager",
+    "fact": "Voyager 1 is the most distant human-made object from Earth."
+  },
+  {
+    "id": "space_exploration_10facts-04",
+    "code": "iss",
+    "fact": "The International Space Station orbits Earth every 90 minutes."
+  },
+  {
+    "id": "space_exploration_10facts-05",
+    "code": "rover",
+    "fact": "Mars rovers have been exploring the Red Planet since 1997."
+  },
+  {
+    "id": "space_exploration_10facts-06",
+    "code": "hubble",
+    "fact": "The Hubble Space Telescope has observed over 30,000 celestial objects."
+  },
+  {
+    "id": "space_exploration_10facts-07",
+    "code": "falcon",
+    "fact": "SpaceX's Falcon Heavy is among the most powerful operational rockets."
+  },
+  {
+    "id": "space_exploration_10facts-08",
+    "code": "artemis",
+    "fact": "Artemis aims to return humans to the Moon in the 2020s."
+  },
+  {
+    "id": "space_exploration_10facts-09",
+    "code": "jwst",
+    "fact": "The James Webb Space Telescope launched in December 2021."
+  },
+  {
+    "id": "space_exploration_10facts-10",
+    "code": "sunrise",
+    "fact": "Astronauts on the ISS see 16 sunrises and sunsets each day."
+  }
+]

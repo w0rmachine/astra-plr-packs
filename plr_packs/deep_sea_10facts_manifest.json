@@ -1,0 +1,52 @@
+[
+  {
+    "id": "deep_sea_10facts-01",
+    "code": "mariana",
+    "fact": "The Mariana Trench is the deepest known point on Earth."
+  },
+  {
+    "id": "deep_sea_10facts-02",
+    "code": "vents",
+    "fact": "Hydrothermal vents host life without sunlight."
+  },
+  {
+    "id": "deep_sea_10facts-03",
+    "code": "angler",
+    "fact": "The anglerfish glows to attract prey in the dark depths."
+  },
+  {
+    "id": "deep_sea_10facts-04",
+    "code": "pressure",
+    "fact": "Pressure at depth can crush objects; adapted creatures thrive."
+  },
+  {
+    "id": "deep_sea_10facts-05",
+    "code": "area",
+    "fact": "The deep sea covers more than half of Earth's surface."
+  },
+  {
+    "id": "deep_sea_10facts-06",
+    "code": "squid",
+    "fact": "Giant squid live in the deep and have the largest eyes in nature."
+  },
+  {
+    "id": "deep_sea_10facts-07",
+    "code": "unexplored",
+    "fact": "About 80% of the ocean is unexplored and unmapped."
+  },
+  {
+    "id": "deep_sea_10facts-08",
+    "code": "coral",
+    "fact": "Deep-sea corals exist at depths over 4,000 meters."
+  },
+  {
+    "id": "deep_sea_10facts-09",
+    "code": "dumbo",
+    "fact": "The dumbo octopus flaps 'ears' to swim in the abyss."
+  },
+  {
+    "id": "deep_sea_10facts-10",
+    "code": "trench",
+    "fact": "Some trenches contain ecosystems isolated for millennia."
+  }
+]

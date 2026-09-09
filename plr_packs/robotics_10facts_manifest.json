@@ -1,0 +1,52 @@
+[
+  {
+    "id": "robotics_10facts-01",
+    "code": "etymology",
+    "fact": "The word 'robot' comes from the Czech word 'robota' meaning forced labor."
+  },
+  {
+    "id": "robotics_10facts-02",
+    "code": "axis",
+    "fact": "Industrial robots move along six or more axes of motion."
+  },
+  {
+    "id": "robotics_10facts-03",
+    "code": "unimate",
+    "fact": "The first industrial robot, Unimate, began work in 1961."
+  },
+  {
+    "id": "robotics_10facts-04",
+    "code": "sophia",
+    "fact": "Humanoid robot Sophia was granted citizenship by Saudi Arabia in 2017."
+  },
+  {
+    "id": "robotics_10facts-05",
+    "code": "swarm",
+    "fact": "Swarm robots coordinate like insects to complete tasks."
+  },
+  {
+    "id": "robotics_10facts-06",
+    "code": "surgery",
+    "fact": "Robotic surgical systems enable minimally invasive procedures."
+  },
+  {
+    "id": "robotics_10facts-07",
+    "code": "spot",
+    "fact": "Boston Dynamics' Spot walks with four legs on rough terrain."
+  },
+  {
+    "id": "robotics_10facts-08",
+    "code": "bomb",
+    "fact": "Robots are used to defuse bombs, reducing human risk."
+  },
+  {
+    "id": "robotics_10facts-09",
+    "code": "farm",
+    "fact": "Agricultural robots weed, harvest, and monitor crops."
+  },
+  {
+    "id": "robotics_10facts-10",
+    "code": "rl",
+    "fact": "Reinforcement learning lets robots learn by trial and error."
+  }
+]
