@@ -1,0 +1,52 @@
+[
+  {
+    "id": "marine_life_10facts-01",
+    "code": "oce",
+    "fact": "Octopus has three hearts and blue blood."
+  },
+  {
+    "id": "marine_life_10facts-02",
+    "code": "jelly",
+    "fact": "A jellyfish is about 95% water."
+  },
+  {
+    "id": "marine_life_10facts-03",
+    "code": "otter",
+    "fact": "Sea otters hold hands while sleeping to avoid drifting apart."
+  },
+  {
+    "id": "marine_life_10facts-04",
+    "code": "whale",
+    "fact": "The blue whale's heart is the size of a small car."
+  },
+  {
+    "id": "marine_life_10facts-05",
+    "code": "clown",
+    "fact": "Clownfish are all born male and can change sex."
+  },
+  {
+    "id": "marine_life_10facts-06",
+    "code": "seahorse",
+    "fact": "Seahorses are the only species where males give birth."
+  },
+  {
+    "id": "marine_life_10facts-07",
+    "code": "shark",
+    "fact": "Sharks existed before trees on Earth."
+  },
+  {
+    "id": "marine_life_10facts-08",
+    "code": "brains",
+    "fact": "An octopus has nine brains and can regrow arms."
+  },
+  {
+    "id": "marine_life_10facts-09",
+    "code": "lobster",
+    "fact": "Lobsters can live over 100 years and never stop growing."
+  },
+  {
+    "id": "marine_life_10facts-10",
+    "code": "deep",
+    "fact": "Some deep-sea fish produce their own light (bioluminescence)."
+  }
+]
